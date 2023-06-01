@@ -47,9 +47,10 @@ Throughout my career, I have honed my skills in a variety of programming languag
 ### ✨ Github Stats
 
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardCodedDavid&show_icons=true&theme=gruvbox)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardCodedDavid&show_icons=true&theme=gruvbox)
+   
+![David's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hardCodedDavid&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
