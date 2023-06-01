@@ -1,6 +1,6 @@
 # 🍿 Sanni David
 
-**`FullStack Developer`**
+**`Full-Stack Developer`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardCodedDavid&label=Profile%20views&color=0e75b6&style=flat" alt="SanniDavid" /> </p>
 
 I am a passionate and dedicated full-stack developer with a love for creating innovative and impactful web applications. With a strong foundation in both front-end and back-end development, I thrive in bringing ideas to life through clean and efficient code.
